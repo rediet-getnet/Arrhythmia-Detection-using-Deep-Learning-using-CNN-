@@ -11,11 +11,11 @@ Arrhythmias are deviations from the normal heart rhythm and can be broadly class
 
 The most frequently occurring arrhythmias include:
 
-*Atrial Fibrillation
-*Premature Ventricular Contractions
-*Supraventricular Tachycardia
-*Ventricular Tachycardia
-*Atrial Flutter
+* Atrial Fibrillation
+* Premature Ventricular Contractions
+* Supraventricular Tachycardia
+* Ventricular Tachycardia
+* Atrial Flutter
 
 Using computer-based algorithms to realize automatic detection of arrhythmia can provide a more effective and reliable diagnostic basis for medical workers. This project leverages Convolutional Neural Networks (CNN) to analyze and detect arrhythmias automatically, enhancing the accuracy and speed of diagnosis.
 
@@ -31,10 +31,10 @@ Classification of Multiple Arrhythmia Types: Identifies atrial fibrillation, pre
 * 
 # Project Structure
 
-*Data Preprocessing: Prepares ECG data for CNN model training.
-*Model Architecture: Defines and trains the CNN model to detect arrhythmia patterns.
-*Evaluation: Evaluates model performance using various metrics.
-*Visualization: Provides visual insights into model predictions and performance.
+* Data Preprocessing: Prepares ECG data for CNN model training.
+* Model Architecture: Defines and trains the CNN model to detect arrhythmia patterns.
+* Evaluation: Evaluates model performance using various metrics.
+* Visualization: Provides visual insights into model predictions and performance.
 
 # Installation
 Follow these steps to set up the project locally:
@@ -42,10 +42,10 @@ Follow these steps to set up the project locally:
 * Copy code
 `git clone https://github.com/yourusername/arrhythmia-detection-cnn.git`
 
-*Install the Required Dependencies
+* Install the Required Dependencies
 
 `pip install -r requirements.txt`
-*Usage
+* Usage
 Prepare the Dataset
 
 
