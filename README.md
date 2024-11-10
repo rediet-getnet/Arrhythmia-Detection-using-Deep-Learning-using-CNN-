@@ -4,7 +4,7 @@ Automated arrhythmia detection using deep learning with CNNs to classify and ana
 #Overview
 Arrhythmias are deviations from the normal heart rhythm and can be broadly classified into three types:
 
-**Atrial
+*Atrial
 *Ventricular
 *Supraventricular
 
